@@ -9,7 +9,7 @@ Virtue". Basically, a way of mediating rewards based on both individual behaviou
 Currently, the system has one output: blessings, and one input: chat messages. Penalty terms may apply a virtue penalty, a faith penalty, or both. Bonus terms will apply a virtue bonus. Messages that do neither will, by default, generate virtue. The total values of these are used to determine the chances of getting specific blessings.
 
 ## Dependencies
-[GetterCore library](https://github.com/sym-okami/GetterCore)
+[GetterCore library](https://github.com/sym-okami/GetterCore)\
 Python 3.6+
 
 ## bot_auth.json format
@@ -26,5 +26,5 @@ where anything within the curly braces should be replaced with the appropriate
 values.
 
 ## Links
-[My Twitch](https://www.twitch.tv/symulacra)
+[My Twitch](https://www.twitch.tv/symulacra)\
 [Wakaba Miko's Twitch](https://www.twitch.tv/wakaba_miko)
